@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain and easie method shewing how the office of overseer of the poor may be managed, whereby it may be 9000 l. per annum advantage to the county of Devon, without abating the weekly relief of any poor, or doing a penny damage to any person / by Richard Dunning ...</title>
+            <author>R. D. (Richard Dunning)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36891</idno>
+            <idno type="STC">Wing D2614</idno>
+            <idno type="STC">ESTC R41940</idno>
+            <idno type="EEBO-CITATION">19729135</idno>
+            <idno type="OCLC">ocm 19729135</idno>
+            <idno type="VID">109375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36891)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109375)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1698:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain and easie method shewing how the office of overseer of the poor may be managed, whereby it may be 9000 l. per annum advantage to the county of Devon, without abating the weekly relief of any poor, or doing a penny damage to any person / by Richard Dunning ...</title>
+                  <author>R. D. (Richard Dunning)</author>
+               </titleStmt>
+               <extent>[6], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>MDCLXXXV [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Public welfare --  England --  Devon.</term>
+               <term>Poor --  England --  Devon.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109375:1" rendition="simple:additions"/>
+            <p>A PLAIN and EASIE METHOD; <hi>SHEWING</hi> How the Office of OVERSEER of the POOR may be managed, where<g ref="char:EOLhyphen"/>by it may be 9000 <hi>l. per Annum</hi> Advan<g ref="char:EOLhyphen"/>tage to the County of <hi>DEVON,</hi> without abating the Weekly Relief of any <hi>Poor,</hi> or doing a Penny damage to any
+<hi>Perſon.</hi>
+            </p>
+            <p>By <hi>RICHARD DUNNING,</hi> Gent.</p>
+            <q>
+               <l>— Venienti occurrite morbo.</l>
+               <l>Nil habet infelix <hi>paupertas</hi> durius in ſe.</l>
+               <bibl>
+                  <hi>Juven. Sat.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year <hi>MDCLXXXV.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:109375:2"/>
+            <p>This may be Printed, </p>
+            <closer>
+               <signed>R.L.S.</signed>
+               <dateline>
+                  <date>
+                     <hi> Septemb.</hi> 15. 1685.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109375:2"/>
+            <head>To the Right Worſhipful, and my Ho<g ref="char:EOLhyphen"/>noured <hi>Maſters,</hi> the <hi>Juſtices</hi> of the Peace for the County of <hi>DEVON.</hi>
+            </head>
+            <p>AS Juſtice is the common preſerver of Humane Society; of Order, Peace, and Commerce, conſiſting of thoſe two general parts, <hi>Preventing</hi> and <hi>Puniſhing;</hi> ſo the firſt is the chief and more noble part thereof: That not only nips Vice in its Bud and Bloſſom, but ſo refines its Natural Soil, that its very <hi>Source</hi> becomes to be obſtructed, and its <hi>Progreſs</hi> prevented; neither are the miſchiefs few or inconſiderable, where this firſt branch hath not its due and wiſhed effects. Thoſe who are not employed in duly diſcharging what properly belongs to their Places and Callings, ſoon becoming diſſolute, following the wild mazes of their Wills and Paſſions; hence ariſe ſuch ſwarms of Mutineers and Levellers, the loud noiſe for <hi>Liberty</hi> and
+<hi>Property,</hi> tho the invading that of <hi>others</hi> is only aimed at.</p>
+            <p>The Prefaces of ſeveral Laws obſerve it as too common, That they who lay aſide their Lawful Trades and Employments, do thereupon betake themſelves to the taking, killing, and ſtealing of Game, appropriated to Noblemen, Gentlemen, <hi>&amp;c.</hi> And common Experience ſhews that ſuch takers ſeldom confine them<g ref="char:EOLhyphen"/>ſelves to the breach of Laws for preſerving Game, but having
+<pb facs="tcp:109375:3"/>gone over thoſe bounds and limits, beyond which they may not innocently paſs, are in a ſhort time dextrous in other Pilfrings. And did not the diligence of Magiſtrates, and their often puniſh<g ref="char:EOLhyphen"/>ing ſuch looſe Perſons, prevent them from acting bare-faced, they would ſoon in no leſs meaſure than the <hi>Goths</hi> and <hi>Van<g ref="char:EOLhyphen"/>dals</hi> of Old, and the
+<hi>Waſtcoteers</hi> of late, be a terror to all People.</p>
+            <p>It has been an aſperſion unjuſtly caſt on the Statutes of the <hi>43 Eliz. for Relief of Poor,</hi> That that Law hath made multitudes idle and careleſs: And that allowing them a Refuge for Relief from their Pariſhes, hath cauſed them the leſs to provide for themſelves. Indeed, by that Law the Pariſh is (as they commonly ſay) <hi>bound to find them,</hi> but that in a far <hi>other</hi> and <hi>larger</hi> ſenſe than they mean, <hi>viz. Work for thoſe that WILL Labour,</hi> Puniſhment for thoſe that <hi>WILL NOT,</hi> and Bread for thoſe that
+<hi>cannot.</hi> And if the two firſt parts of that Law were duly obſerved, the <hi>Poor</hi> would not only be reduced to a ſmall number, comparatively to what they <hi>now</hi> are, but there would be no ſuch Poor as idle and wandring Rogues and Vagabonds, as the Statute of the
+<hi>29th.</hi> of the ſame Queen ſhews there were before that time: And the Puniſhment appointed for ſuch looſe Perſons being, that they be Whipt, and ſent to the place of their Birth, as an Admonition to the Inhabitants of that place, to bring up their Chil<g ref="char:EOLhyphen"/>dren better.</p>
+            <p>Thoſe who have obſerved the Method that the Ancient Laws direct for Purſuing and Apprehending Felons and other Capi<g ref="char:EOLhyphen"/>tal Offenders, by <hi>Hue</hi> and <hi>Cries,</hi> have lookt on it as almoſt
+<pb facs="tcp:109375:3"/>impoſſible (were ſuch ways duly purſued) for ſuch to eſcape the reach of Juſtice. But they that have deliberately conſi<g ref="char:EOLhyphen"/>dered of the Laws of a later date, eſpecially the <hi>4th. 39th. 43th.</hi> of the late Queen, and the <hi>4th.</hi> and <hi>7th.</hi> of King
+<hi>James;</hi> and of the Methods they direct for the early placing out the Children of the Poor,
+<hi>Apprentices;</hi> and thoſe of riper Years in <hi>Service;</hi> That none be entertained in Service without due Teſtimonials whence they came; nor <hi>then</hi> by the <hi>pound, piece,</hi> or <hi>pair,</hi> in which Maſterleſs Method many <hi>ſerve</hi> more
+<hi>Maſters</hi> in a <hi>Week</hi> than they ſpend ſober Nights, but for no leſs time than a Year: That Perſons of all Ages and Sexes be duly employed, and of all Qualities, be neither Idle nor diſorderly: The Annual choice of Officers in every Pa<g ref="char:EOLhyphen"/>riſh to ſee thoſe things, and others of the like Nature, duly obſerved; and withall, the Penalties on them that remain re<g ref="char:EOLhyphen"/>miſs or negligent. To which may be added the late Laws of Exciſe, which as they are Advantageous in producing a vaſt Revenue to the Crown, ſo are more Advantageous to the Coun<g ref="char:EOLhyphen"/>try in affording a conſtant and Genteel livelihood to multitudes of decayed Tradeſmen, Gentlemen,
+<hi>&amp;c.</hi> (to which every one contributes as little as he pleaſeth, no one being Obliged to keep or frequent Ale-houſes) may well admire that there is any lon<g ref="char:EOLhyphen"/>ger a Felon in the Gaol, or an Idler in the Streets. And that there may not be ſuch, there can ſcarce be better ways contri<g ref="char:EOLhyphen"/>ved than the Laws direct, nor any in a greater meaſure enablea. to effect it than the Juſtices of the Peace are. To you through His Majeſties favour belongs the choice of nominating, pla<g ref="char:EOLhyphen"/>cing, diſplacing, directing, and encouraging almoſt all ſub<g ref="char:EOLhyphen"/>ordinate
+<pb facs="tcp:109375:4"/>and inferiour Officers; and of Examining, Inſpe<g ref="char:EOLhyphen"/>cting, and Puniſhing their omiſſions and neglects, and now, if ever, it's time to reſtrain the increaſe of the Poor, by re<g ref="char:EOLhyphen"/>ſtraining the Idleneſs and Inſolence of the meaner ſort. That the Method hereby propoſed is both practicable and eaſie, is manifeſt, and the Legality of it is fully atteſted, by being Examined and Approved of by a conſiderable number of emi<g ref="char:EOLhyphen"/>nent Juſtices of the Peace of this County; being no new thing, but a more literal and direct obſervance of the Law than the common practice is.</p>
+            <p>And tho it cannot be certainly aſſerted what Annual Advan<g ref="char:EOLhyphen"/>tage ſuch Method in a whole County may produce, yet as far as can well be computed, and as may upon good grounds be pre<g ref="char:EOLhyphen"/>ſumed, the Yearly Profit to the Publick would far exceed what this Paper mentions.</p>
+            <p>If the Children in the City of <hi>Norwich</hi> between the Ages of Six and Ten Years, gain
+<hi>12000 l. per Annum</hi> beyond their Maintenance, as an * Author of good Credit affirms<note n="*" place="margin">Author of the State of <hi>England,</hi> Dr. <hi>Chamberlain.</hi>
+               </note> to have appeared upon a late Computation there made, how much greater Sum might be advanced in ſo many Popu<g ref="char:EOLhyphen"/>lous Towns, and in ſo large a County as this is, by the La<g ref="char:EOLhyphen"/>bours of ſuch and others of riper Years, who now ſpend moſt of their time idly, or worſe? Beſides many other Advantages would thence ariſe, ſome whereof are obvious to the meaneſt Capacity: And when ever an Act of this Nature ſhall be thought worth the vigorous proſecution, a ſufficiency of fit ſubſervient Agents will never be wanting.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109375:4"/>
+            <head>A plain and eaſie Method, &amp;c.</head>
+            <p>ALthough I have no particular knowledge of the ſeveral Pariſhes in this County, yet as 'tis true, that the Charge to the Poor in many Pariſhes doth exceed <hi>W.</hi> in a proportionable rate; and that every Pariſh is, or may be equally burthened with <hi>W.</hi> So 'tis as true, that the general increaſe of ſuch Charge (which is near double what it was Thirty Years ſince, and like to double again in a ſhorter time) is not occaſioned by any Dearth or Scarcity of Neceſſaries, there being never a <hi>greater</hi> Plenty. Nor for want of Employments, there being never <hi>more;</hi> nor through the ſmalneſs of Wages, that being never ſo <hi>great:</hi> But by <hi>Idleneſs,</hi> profuſe Ex<g ref="char:EOLhyphen"/>pences, the <hi>ill</hi> bringing up of Children, and the younger ſort. Now, how all thoſe inconveniences may with eaſe, and without the help of any <hi>new</hi> Law, or breach of an <hi>old,</hi> be ſo far remedied, as to be of 9000 <hi>l. per Annum</hi> clear Advantage to this County, I ſhall briefly de<g ref="char:EOLhyphen"/>monſtrate.</p>
+            <p>Firſt, That 40 <hi>l. per Annum</hi> in the Pariſh of <hi>W.</hi> is ſome<g ref="char:EOLhyphen"/>what more than 1000 <hi>l.</hi> in the <hi>Subdiviſion</hi> and 1000 <hi>l. per Annum</hi> in the <hi>Subdiviſion</hi> is ſomewhat more
+<pb n="2" facs="tcp:109375:5"/>than 9000 <hi>l. per Annum</hi> in the <hi>County.</hi> (The diſpropor<g ref="char:EOLhyphen"/>tion between the South and the other two grand <hi>Diviſions</hi> being conſidered) conſequently that which may be done elſewhere as well as in <hi>Winckley,</hi> as what is hereby pro<g ref="char:EOLhyphen"/>poſed may, and is 40 <hi>l. per Annum</hi> clear Advantage to the Pariſh of
+<hi>W.</hi> may, and will be 9000 <hi>l. per Annum</hi> and upwards Advantage to this County. This being granted, nothing more remains than to ſhew how an Overſeer of the Poor of
+<hi>W.</hi> hath, and ſtill may benefit that Pariſh not only 40 <hi>l. per Annum,</hi> but a far greater Sum beyond what hath been done by any other.</p>
+            <p>Each private Perſon being conſidered as a Member of the <hi>Publick,</hi> nothing is more
+<hi>plain</hi> than this; That he that ſpends an hour <hi>idly,</hi> or in <hi>Begging,</hi> Cheating, or Stealing, either in that time gets nothing at all, or no<g ref="char:EOLhyphen"/>thing to the
+<hi>Publick,</hi> ſome one o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other receiving damage equal to his gains: Whereas he that ſpends that ſhort time in any Lawful Labour, and thereby earns a penny, earns that ſmall ſum without any damage to any Perſon, <hi>(Sic parvis componere magna.)</hi> And therefore lay this as a Foundation, That whatſoever is <hi>Lawfully</hi> earned by the procurement of an Overſeer of the Poor by ſuch Per<g ref="char:EOLhyphen"/>ſons, and in ſuch time, who would otherwiſe ſpend the ſame time in idleneſs, unprofitable or ill Employments, is <hi>clear gain,</hi> no one receiving any
+<hi>damage</hi> thereby.</p>
+            <p>This being granted, the bringing common Beggers to Work, as alſo common Bayliffs and Apparators, who perchance ſerve a Proceſs or two in a Month, and live
+<pb n="3" facs="tcp:109375:5"/>idly die reſt of their time. The keepers of ſmall Tip<g ref="char:EOLhyphen"/>pling-houſes, and ſuch-like looſe Perſons, they being with their whole Retinue brought conſtantly to Labour in an honeſt Employent, the product of their Labour is clear <hi>gain.</hi>
+            </p>
+            <p>It has been almoſt a Proverbial ſaying, That <hi>'tis a great trouble to bring Beggers to Stocks,</hi> but to bring Beg<g ref="char:EOLhyphen"/>gers, <hi>&amp;c.</hi> to <hi>Work,</hi> to leave a habit of Idleneſs, and the Advantages of Stealing being the perquiſites of their Trade; to bring them, and ſuch as are before mentioned, conſtantly to Labour, ſome will ſay, here's a Task in<g ref="char:EOLhyphen"/>deed, <hi>hic labor hoc opus eſt.</hi> But when the ſlenderneſs of their Power to reſiſt ſuch or the like eaſie Method for reforming them as is herein ſet down (which may re<g ref="char:EOLhyphen"/>ceive the better encouragement tending to their own and the Publick good) and the plainneſs of thoſe Laws which require it, and the eaſineſs of putting them in execution are ſeriouſly conſidered; 'twill ſoon appear that their not demeaning themſelves as uſeful Members of the Com<g ref="char:EOLhyphen"/>mon-wealth, rather ariſeth from the neglect of thoſe that ſhould <hi>regulate</hi> them, than from any Power in them<g ref="char:EOLhyphen"/>ſelves to avoid being <hi>regulated</hi> by ſuch or the like Method as is herein mentioned, according to the Act of Parlia<g ref="char:EOLhyphen"/>ment in that caſe made and provided, whereby the Church-wardens and Overſeers of the Poor are poſitively required by raiſing a convenient Stock or otherwiſe, to Employ and ſet on Work all ſuch Poor of their Pariſhes, married or unmarried, as have no Eſtates to maintain
+<pb n="4" facs="tcp:109375:6"/>them, and uſe no ordinary and daily Trade of Life to get their Living by. So that ſuch as have no Eſtates ſuf<g ref="char:EOLhyphen"/>ficient to maintain them, and ſuch as have no Trade in which they are ordinarily and daily Employed, are by the <hi>plain</hi> words of the Law to be
+<hi>employed</hi> and <hi>ſet on work</hi> by the Church-wardens and Overſeers of the Poor, who are to meet once in every Month at the leaſt, to conſider of fit ways for ſetting and keeping ſuch Poor on Work, upon pain of forfeiting 20 <hi>s.</hi> a piece for each month they neglect ſo to do. And ſuch Poor as ſhall refuſe to Work according to ſuch appointment, are by the ſame Law to be ſent to the Houſe of Correction.</p>
+            <p>But the Law that ſays they ſhall ſet their Poor on work, cannot be underſtood otherwiſe, than that ſuch Officers ſhall ſet them on work, in ſuch Employments, in ſuch manner, and by ſud<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ways and means as may beſt ſuit with the Capacities of Perſons employing, and to be em<g ref="char:EOLhyphen"/>ployed; and the occaſions and circumſtances of time and place, conceive, that the ſetting down a method is no ad<g ref="char:EOLhyphen"/>ding unto, or a digreſſing from the Law, but rather a ſub<g ref="char:EOLhyphen"/>miſſive compliance therewith. But before I mention ſuch Method as I preſume to propoſe, ſhall in purſuance of what I before ſaid, <hi>viz.</hi> that 40
+<hi>l. per Annum,</hi> or rather a far greater ſum hath, and ſtill may by ſuch method be gotten in <hi>W.</hi> and proportionably be of Advantage to this County beyond 9000
+<hi>l. per Annum,</hi> if the ſame or like means were uſed. For Inſtance,</p>
+            <pb n="5" facs="tcp:109375:6"/>
+            <p>
+               <hi>G.B.</hi> a common Begger in adjacent and remote Pariſhes, complaining of extraordinary ſwellings in one of his Legs (which with Plaiſters, Binders, <hi>&amp;c.</hi> ſeemed near as great as his waſte) pretending to have a ſick Wife and young Children (all falſe) made Begging his ordinary and daily Trade; and having for near Twenty Years ſo complained, was generally believed therein: But the me<g ref="char:EOLhyphen"/>thod herein to be propoſed <hi>for bringing idle and counterfeit Beggers, and other idle Perſons to work,</hi> brought him in a few days time to throw off his burthen of Clouts from his feigned griefs, and to follow his work day by day; ſo that by his Threſhall, Mattock, and the like, he now gains his Meat and Drink, and 5 <hi>d.</hi>
+               <hi>per</hi> Day; and in like<g ref="char:EOLhyphen"/>lihood hath forgotten which was the lame Leg. 5 <hi>d.</hi>
+               <hi>per</hi> Day is 2 <hi>s.</hi> 6 <hi>d. per</hi> Week, in one Year, abating two Weeks for Holy-days, comes to — 6 <hi>l.</hi> — 5 <hi>s.</hi> — 0 <hi>d.</hi>
+            </p>
+            <p>His Diet being part of his Wages, cannot be leſs than 5 <hi>d.</hi> a Day more, and in the like time comes to — 6 <hi>l.</hi> 5 <hi>s.</hi> — 0 <hi>d.</hi>
+            </p>
+            <p>His Wife a luſty Woman, and formerly a common Vagabond, can well by her labour earn her Diet, which may be valued at 18 <hi>d.</hi> a week, and 6 <hi>d.</hi> a week Wages, and will ſcorn to work at that rate; yet ſo, comes to <hi>per Annum</hi> — 5 <hi>l.</hi> — 0
+<hi>s.</hi> — 0 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>L. B.</hi> another common Begger, would ſometimes be on his Range without once returning home in a quarter of a Year, and at laſt return as louſie, pennyleſs, and ragged as he went out; now conſtantly keeps his <hi>Church,</hi> having formerly no Cloaths to come <hi>there,</hi> earns his Meat and
+<pb n="6" facs="tcp:109375:7"/>Drink, which cannot be valued leſs than 2 <hi>s.</hi> 6 <hi>d.</hi> in a Week, conſequently in a Year, abating as before, comes to — 6 <hi>l.</hi> — 5 <hi>s.</hi> — 0 <hi>d.</hi>
+            </p>
+            <p>He likewiſe receives 2 <hi>s. per</hi> week Wages in the Sum<g ref="char:EOLhyphen"/>mer, and 1 <hi>s.</hi> 6
+<hi>d. per</hi> week Wages in the Winter, and hath his conſtant work at one place, which Yearly comes to — 4 <hi>l.</hi> — 7 <hi>s.</hi> — 6 <hi>d.</hi>
+            </p>
+            <p>His Wife, a luſty Woman, and formerly a common Vagabond, can well earn her Diet, and 6
+<hi>d. per</hi> week, and I conceive would ſcarce accept of 12 <hi>d. per</hi> week and Diet, if offered; yet at 6 <hi>d. per</hi> week and Diet comes yearly to as before — 5 <hi>l.</hi> — 0 <hi>s.</hi> — 0 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>W. P.</hi> a ſtrong Perſon, but of weak Capacity, ha<g ref="char:EOLhyphen"/>ving a luſty Woman, and a common Vagrant to his Wife, who could by her begging Trade gain his and her own Diet, and the Pariſh provided him Cloaths; yet in a ſhort time after, he had Neceſſaries in order, could well earn his Diet, and 2 <hi>s. per</hi> week Wages; his Diet <hi>per Annum</hi> valued at —
+6 <hi>l.</hi> — 5 <hi>s.</hi> — 0 <hi>d.</hi>
+            </p>
+            <p>And his Wages at 2 <hi>s. per</hi> week, comes to <hi>per An<g ref="char:EOLhyphen"/>num</hi> — 5
+<hi>l.</hi> — 0 <hi>s.</hi> — 0 <hi>d.</hi>
+            </p>
+            <p>His Wife can well earn as each of the other two <hi>per Annum,</hi> as before — 5
+<hi>l.</hi> — 0 <hi>s.</hi> — 0 <hi>d.</hi>
+            </p>
+            <p>I have hinted at only but a ſmall part of this one ſort of Idlers that the Pariſh of
+<hi>W.</hi> could lately afford, there being many others, ſome that can get Wages beyond their Diet; others that can earn their Diet, which ſingly in a years time is conſiderable; ſome continue reformed,
+<pb n="7" facs="tcp:109375:7"/>and <hi>all</hi> would with a little care; and I cannot believe but that any that can walk ſome miles to beg, can earn their Bread at home, but forbear particularizing them, the la<g ref="char:EOLhyphen"/>bour of thoſe already mentioned, and who formerly ſpent their time idly, or unprofitably as to the <hi>Publick;</hi> amounting yearly to more than I before pretended to de<g ref="char:EOLhyphen"/>monſtrate: And know not where there are two Pariſhes together, in one of which may not be found of idle and looſe Perſons a number anſwerable to 6 in <hi>W.</hi> or rather more.</p>
+            <p>And now having by an uſual and demonſtrative way ſet down the experienced effects of our Method, ſhall next mention the cauſe or manner thereof.</p>
+            <p>Firſt, <hi>How to find and provide</hi> Employments <hi>for all ſorts.</hi>
+            </p>
+            <p>Secondly, <hi>How to compel both Men and Women conſtantly to follow their</hi> Employments,
+<hi>who receive Relief of the Pariſh, and can</hi> wander <hi>abroad; for ſuch can</hi> labour
+<hi>at home.</hi>
+            </p>
+            <p>Thirdly, <hi>How to compel the Poor of each Sex, who receive no ſuch</hi> Relief,
+<hi>conſtantly to follow their</hi> Labour.</p>
+            <p>
+               <hi>Firſt,</hi> For providing Work for men in Husbandry, this was our Method; we gave them
+<hi>Liſts</hi> (taken out of a Book, wherein all our <hi>Liſts</hi> of this ſort were entred, ſub<g ref="char:EOLhyphen"/>ſcribed by the <hi>Officers,</hi> and allowed by two <hi>Juſtices</hi> of the Peace) in this manner.</p>
+            <p>You <hi>A. B.</hi> when not otherwiſe conſtantly Employed, are to work for <hi>C. D.</hi> four days, <hi>E. F.</hi> three days, <hi>&amp;c.</hi> the Payers to the Poor ſucceſſively as herein named, to re<g ref="char:EOLhyphen"/>ceive
+<pb n="8" facs="tcp:109375:8"/>for your work your Diet, and 3 <hi>d. per</hi> Day in the Summer, and 2
+<hi>d. per</hi> Day in the Winter, and to give each Perſon three days notice before you apply to them for their work, and to give us an account of your due ob<g ref="char:EOLhyphen"/>ſervance hereof at — on S. ſeven night next, between the hours of — and to give the like account at the ſame place on every S. ſeven night for three months then next follow<g ref="char:EOLhyphen"/>ing, between the hours of —</p>
+            <p>Note, <hi>That ſuch as receive Relief from the Pariſh, were to give ſuch account as above, before they received their Pay.</hi>
+            </p>
+            <p>And for Employ to Women, this was our Method: We agreed with one Perſon, who uſually Employed ſe<g ref="char:EOLhyphen"/>veral <hi>Spinſters;</hi> the ſubſtance of which Agreement was, That Was to Employ in <hi>Spinning, Carding,</hi> &amp;c. all ſuch Women as by direction of the Overſeers ſhould apply to him for Work, to pay them ſuch Wages as they ſhould deſerve; and accordingly Order them where to go for Work: And in caſe any of them ſhould detain or im<g ref="char:EOLhyphen"/>bezzle any Wool to them delivered, the Owner to prove the delivery thereof before two Juſtices of the Peace; and thereupon the Overſeers to pay him the value thereof; and they in recompence thereof, to receive ſuch ſatisfaction from the imbezler as the Juſtices ſhould order. By this means both ſorts had ſufficient Employents provided for them: And ſuch as afterwards ſhould refuſe to Work, came directly within the reach of that Law, that ſuch ſhall be ſent to the
+<hi>Bridewell.</hi>
+            </p>
+            <pb n="9" facs="tcp:109375:8"/>
+            <p>Note, <hi>The like may be done for Employing of Combers and Weavers, where ſuch are.</hi>
+            </p>
+            <p>Secondly, <hi>How to compell ſuch as receive Relief of the Pariſh, to follow their Labour,</hi> &amp;c.</p>
+            <p>They having fit <hi>Employments</hi> provided for them in man<g ref="char:EOLhyphen"/>ner before mentioned as they ought, ſo they can eaſily make out that they have conſtantly and diligently been
+<hi>Employed</hi> therein, or in ſome other Lawful <hi>Employments</hi> (if they have been ſo
+<hi>Employed</hi>) either by procuring their <hi>Employers,</hi> or ſome of their Families to come at the <hi>Pay-Board,</hi> or elſewhere, to certifie how they have been <hi>Em<g ref="char:EOLhyphen"/>ployed,</hi> and what they have done ſince laſt <hi>Pay-Day:</hi> Or elſe they may bring a
+<hi>Certificate</hi> thereof in Writing from thoſe who <hi>Employ</hi> them; and until they give a good ac<g ref="char:EOLhyphen"/>count of their diligence, and in ſuch manner atteſt the ſame, to receive no
+<hi>Relief.</hi>
+            </p>
+            <p>Thirdly, <hi>How to compel ſuch Poor as receive no Relief from the Pariſh, to follow their Labour.</hi>
+            </p>
+            <p>Both Men and Women had Employments provided for them in manner before mentioned: But their Neceſſi<g ref="char:EOLhyphen"/>ties not bringing them to the Pay-board, uſed theſe ſeve<g ref="char:EOLhyphen"/>ral ways.</p>
+            <p>Firſt, Knowing that thoſe who received Relief, would account it no ſmall Puniſhment to be at once deprived of their pleaſant old Trade of <hi>walking</hi> and <hi>begging,</hi> and be compelled daily to <hi>Labour.</hi> And likewiſe in manner afore<g ref="char:EOLhyphen"/>ſaid to prove the ſame, would be apt to envy their old Companions and other <hi>Idlers.</hi> And therefore to make
+<pb n="10" facs="tcp:109375:9"/>them the forwarder in complaining, promiſed them a Re<g ref="char:EOLhyphen"/>ward of 1 <hi>s.</hi> for each Perſon they ſhould diſcover and complain of for <hi>Begging;</hi> and the like Reward for diſ<g ref="char:EOLhyphen"/>covering and complaining of any of the luſtier or ſtronger ſort of
+<hi>Poor</hi> that ſhould ſpend any working day idly, or in looſe diſorderly Employments (tho they did not beg) and the like Reward to any other complainer: By this means they had ſtore of <hi>Overſeers</hi> or Spies, and were afraid one of another.</p>
+            <p>And tho this (like ſetting one Thief to catch another) may be a good way, yet leſt the Knaves ſhould agree, it is a ſure way for the Overſeers, or one of them, or rather ſome Perſon to be continually employed for that purpoſe once in a week or fortnight, till there be a full Reforma<g ref="char:EOLhyphen"/>tion, to call all ſuch to an account, whom they ſhall any way ſuſpect to have neglected their work, whether they have wrought according to the Order they lately received; if not, that they make out by good circumſtances how elſe they have been Employed, and what they have done ſince laſt examined: And in caſe they cannot, or will not give a good account (to wit) that they have done ſo much work in that time, as Perſons of their ſtrength and capacity might conveniently do; then their not giving ſuch account is a juſt inducement to ſuſpect they have been <hi>idle</hi> or <hi>ill</hi> Employed: And therefore 'twill be both proper and eaſie to have than before two Juſtices of the Peace: And in caſe they do then prove they have conſtantly followed their Lawful Employments, yet for their
+<pb n="11" facs="tcp:109375:9"/>refuſing to give an account at home, their Journey will be a juſt Puniſhment. But if they cannot then prove that they have conſtantly followed their Lawful Employments, it will be a juſt cauſe for the Juſtices to ſend them to the
+<hi>Bridewell,</hi> as the foreſaid<note n="*" place="margin">43. <hi>Eliz. cap.</hi> 2.</note> Sta<g ref="char:EOLhyphen"/>tute in this caſe directs.</p>
+            <p>And now having, as I conceive, briefly mentioned a plain Method, I ſhall withal obſerve thoſe Objections that have been by <hi>ſome,</hi> and may again be made by <hi>others.</hi>
+            </p>
+            <p>Firſt, That thoſe who are by Liſts to work round a Pa<g ref="char:EOLhyphen"/>riſh, live at ſo great diſtance from ſome places, that they cannot return home at Night, and are, for the moſt part, unfit to be Lodged.</p>
+            <p>This Exception may be thus ſalved: They may have a Bed, <hi>viz.</hi> a Sheer or Blanket provided for them by the Over<g ref="char:EOLhyphen"/>ſeers, the charge thereof deducted out of their own Wages, which they may carry with them as often as they change Houſes (as ſoon as they have been at ſuch places in order according to their Liſts, whence they may return home at Night) which will not only be a Lodging fit for ſuch Per<g ref="char:EOLhyphen"/>ſons, who may well be ſuppoſed not to be of the better ſort of Workmen, but equal with the <hi>Scotchmen,</hi> the moſt genteel ſort of Runabouts.</p>
+            <p>Yet this is an Objection that will ſeldom or never need this or any other like remedy; for ſuch looſe Perſons once finding that they muſt conſtantly follow ſome Lawful Employment either <hi>out</hi> of, or <hi>in Bridewell,</hi> will get them<g ref="char:EOLhyphen"/>ſelves into conſtant Work, or take Tasks, yea, and work at half Price, rather than ſo wander from place to place, and
+<pb n="12" facs="tcp:109375:10"/>as 'twere, beg Work, which the worſt Workmen ſcorn to do, eſpecially of ſuch who deſire their room rather than their company.</p>
+            <p>The next Objection is the <hi>Obſtinacy</hi> of thoſe that ſhould Employ them according to their Liſts; ſome pretending they have no Employments other than for thoſe whom by compact they are to employ, and ſo will not employ ſuch as ſhall be ſent unto them by the Overſeers.</p>
+            <p>This Objection ſeldom or never needs an anſwer; for the reſolution that may be expected from thoſe that are ſo ap<g ref="char:EOLhyphen"/>pointed to work, <hi>not</hi> to work according to ſuch appoint<g ref="char:EOLhyphen"/>ment as hath been obſerved, will prevent the grounds of ſuch clamour: Yet if any ſhall apply to ſuch, who either cannot, or will not Employ them; for inſtance, ſhould one that hath 20 <hi>l. per Annum,</hi> he appointed to Employ one of the Poor two days, and for his work to give him Diet, and 2 <hi>d.</hi> or 3 <hi>d. per</hi> day. If ſuch Maſter will pay the Wages, which for two days may be 4 <hi>d.</hi> or 6 <hi>d.</hi> that ſhould excuſe him for his turn, and the Workman to the next on his Liſts, and the money ſo to be paid, not to be paid to the Workmen, for if it ſhould, they will get half a dozen Ma<g ref="char:EOLhyphen"/>ſters in a day to put them off, but paid to the Overſeers, and accounted for by them, as for and with the races to the Poor. And if any refuſe to pay ſuch ſmall ſum, which will not coſt the owner of 20 <hi>l. per Annum</hi> 1 <hi>s.</hi> in a Year, con<g ref="char:EOLhyphen"/>ſidering that few or none will go round according to ſuch Liſts, I conceive ſo much may be added to their <hi>rates</hi> to the <hi>Poor</hi> beyond their uſual proportion; or charged on them by a rate made for the purpoſe, to be entituled, <hi>Arate made
+<pb n="13" facs="tcp:109375:10"/>by the Churchwardens and Overſeers of the Poor, for ſetting on Work, and better Relief of the Poor,</hi> &amp;c. And all to be char<g ref="char:EOLhyphen"/>ged as by other rates, and thoſe to be excuſed from Pay<g ref="char:EOLhyphen"/>ment that Employ them according to the Liſts.</p>
+            <p>A Third Exception is, <hi>The trouble or difficulty in the over<g ref="char:EOLhyphen"/>ſight or managery hereof.</hi>
+            </p>
+            <p>But in one Year this Method will prevent abundance of trouble; for looſe, idle Perſons being always at leiſure, do often clamour for Relief when they need none: And if their demands be not ſatisfied, they complain to the Juſtices, who never do, nor can do leſs than order the Of<g ref="char:EOLhyphen"/>ficers to come before them, to anſwer, and ſhew cauſe, if any, for not providing for them according to their need, or elſe to relieve them according to their neceſſity without appearing. And ſuch Officers as live far from the place where the Juſtices meet, will often give the Complainers far more than they need, meerly to lave themſelves ſuch a Journey, eſpecially when they have the wit to complain in a buſie time. Whereas few or none will be willing to accept of Relief from the Pariſh upon ſuch terms, as once in a week or fortnight publickly to give an account of their demeanor unto him to whom they will ſoon give die Title of
+<hi>Bridewell-keeper.</hi> And many will maintain a de<g ref="char:EOLhyphen"/>crepid Husband, Wife, or Child, rather than come under ſuch weekly Examination, whoſe maintenance otherwiſe would not only lie on the Pariſh, but make all the reſt of ſuch a Family idle.</p>
+            <p>For men in Husbandry, it will be a very ſmall trouble to procure them Employments; 'tis only writing and
+<pb n="14" facs="tcp:109375:11"/>delivering them <hi>Liſts,</hi> where and at what rates to work: And the Wages ſhould be the leſs, for that the Maſters may be the willinger to Employ them, and that they may the rather get work themſelves.</p>
+            <p>And for Employing Women in Spinning, Carding, <hi>&amp;c.</hi> that trouble will be leſs to the Overſeers than writing and delivering Notes, for Men in Husbandry; for one Per<g ref="char:EOLhyphen"/>ſon that uſually Employs Spinſters, may Employ them all without 1 <hi>d.</hi> damage, there being enough of ſuch in or near moſt Pariſhes in <hi>Devon,</hi> and ſcarce a Pariſh wherein ſome Weaver, Comber, or other doth not Employ a good part of the Spinſters therein. And it can be no damage to the <hi>Employer</hi> of them; for 'tis certain he will pay them no more Wages than they deſerve: And he is ſure in caſe they ſpoil his Goods, to be ſatisfied for the ſame by the Officers, he proving the delivery thereof. And the Officers need not fear of being at any great charge in making ſuch ſatisfacti<g ref="char:EOLhyphen"/>on, for the Poor that receive the Wool, will make ſatis<g ref="char:EOLhyphen"/>faction themſelves, rather than be publickly Whipt, as the<note n="*" place="margin">7.
+<hi>Jac.</hi> 7.</note> Law directs.</p>
+            <p>And as to the calling them to an account, that trouble ſcarce requires an hours time in a fortnight; for if they work according to the appointment of the Officers, thoſe that Employ them will ſoon give an account thereof. If elſewhere, they muſt ſatisfie the Officers thereof, or ſuch as they ſhall appoint to examine them at ſome time and place, once in a week or fortnight to be limited unto them: And in caſe of neglect, or refuſal, to be puniſhed as is before mentioned in the clauſe <hi>for ſetting ſuch Poor
+<pb n="15" facs="tcp:109375:11"/>on Work as receive no Relief.</hi> And there is ſcarce a great Pa<g ref="char:EOLhyphen"/>riſh wherein there is not a Perſon or two, who for 40 or 50 <hi>s. per Annum</hi> will undertake the ſetting up, and continu<g ref="char:EOLhyphen"/>al managery thereof, which will be more than ſo many pounds gains to the Pariſh: And in <hi>ſmall</hi> Pariſhes it will be little or no trouble, and in a ſhort time little or none in a <hi>great</hi> one.</p>
+            <p>Another Scruple hath been made by Overſeers of the Poor, and ſome others, that whileſt the Statute by which they are conſtituted, only requires them to ſet their Poor on Work, whether ſuch as <hi>never</hi> received <hi>Relief</hi> for themſelves or Families from the Pariſh, or are not otherwiſe apparent<g ref="char:EOLhyphen"/>ly <hi>Poor,</hi> may <hi>be compelled</hi> conſtantly to follow ſome Law<g ref="char:EOLhyphen"/>ful Trade or Employment. And becauſe the ſatisfying of ſuch Officers of their
+<hi>Power</hi> and <hi>Duty</hi> herein, is of vaſt con<g ref="char:EOLhyphen"/>ſequence, the labour of ſuch People, when they come to be placed in Alms-houſes being ſmall, comparatively to what it might have been when they followed the Ale-houſes, <hi>&amp;c.</hi> I ſhall tranſcribe the reſolution of the <hi>Oracle</hi> of the <hi>Engliſh</hi> Laws on another Statute, whoſe words are
+<hi>theſe.</hi>
+            </p>
+            <p>By the Stat. of the 7. of K. <hi>James,</hi> tho they have Law<g ref="char:EOLhyphen"/>ful means to live by; yet if they be idle or diſorderly Per<g ref="char:EOLhyphen"/>ſons, the Juſtices of the Peace have power to commit them to the Houſe of Correction: A general and large Power given unto them, without exception of any Perſon. And ſaith further, that their <hi>Mittimus</hi> may be more ſafe upon this Statute,
+<hi>Quia otioſa &amp; inordinata perſona;</hi> for that he is an idle and diſorderly Perſon, Or, that he is an idle Perſon, Or, that he is a diſorderly Perſon; according to
+<pb n="16" facs="tcp:109375:12"/>the words of this Act, than on the 39. <hi>Eliz.</hi> with this Marginal Note here inſerted.<note place="margin">The words are in the disjunctive.</note>
+            </p>
+            <p>Beſides, this new Method of Catechiſing will ſoon get the name of a new
+<hi>Bridewell;</hi> and to be ſo Examined, will be lookt on to be ſuch a diſgraceful thing, that the begin<g ref="char:EOLhyphen"/>ning with two or three in a Town or Pariſh will affright the reſt into an orderly manner of living.</p>
+            <p>Another Exception is the obſtinacy and neglect of Offi<g ref="char:EOLhyphen"/>cers that ſhould Employ them, who will not take this or any other Method for ſetting their Poor on work, tho the Law, and the Magiſtrates Order thereupon, poſitively re<g ref="char:EOLhyphen"/>quire it.</p>
+            <p>The contempt, obſtinacy, and neglect of Inferior Offi<g ref="char:EOLhyphen"/>cers are in this Age as 'twere Treaſon-proof againſt all Au<g ref="char:EOLhyphen"/>thority, Publick Intereſt, common Reaſon and Civility, the
+<hi>Mare Lethi</hi> of all Laws; ſuch ſwallow Oaths without the leaſt ſtraining, ſeldom preſent the moſt apparent Offences without being ſet on by ſome perſonal Prejudice or Quar<g ref="char:EOLhyphen"/>rel of their own; hence Faction and Profaneneſs have their ſhelter. Yet tho they look on their Oaths as things of form and inſignificant, their own perſonal Intereſt is ſtill minded. So as that thoſe who will not preſent an Offence for their Oaths ſake, nor for ſecuring the Publick Peace, nor for ſup<g ref="char:EOLhyphen"/>preſſing Profaneneſs, will do it to ſave themſelves a ſhil<g ref="char:EOLhyphen"/>ling. And now having obſerved where they are leaſt For<g ref="char:EOLhyphen"/>tified, next follows how to make an attempt there.</p>
+            <p>If the Juſtices of the Peace, who are emphatically, or more eminently the Overſeers of the Poor of the County,
+<pb n="17" facs="tcp:109375:12"/>(all others being their Subſtitutes, and acting by their No<g ref="char:EOLhyphen"/>mination and Order) ſhall be fully convinced of the great Advantages of reforming the looſe, idle, and leuder ſort, and more orderly bringing up the Children of ſuch. If they conſider what the charges of maintaining them may other<g ref="char:EOLhyphen"/>wiſe in a ſhort time come to, and what other ill conſequen<g ref="char:EOLhyphen"/>ces may be expected from their numbers and <hi>Levelling</hi> Principles, of which they gave ſome hint by their Muti<g ref="char:EOLhyphen"/>neers in the <hi>late Froſt.</hi> As they would be
+<hi>willing,</hi> ſo they would find it an <hi>eaſie</hi> matter to cauſe a general Reforma<g ref="char:EOLhyphen"/>tion of ſuch. And although I cannot propoſe as fit expe<g ref="char:EOLhyphen"/>dients as themſelves may know, yet preſume to propoſe one, which doubtleſs will ſoon make the Officers diligent therein, and conſequently effect <hi>all</hi> the reſt.</p>
+            <p>Informers being never wanting againſt any ſort of Of<g ref="char:EOLhyphen"/>fenders whom the Juſtices of Peace, or others of Worth and Quality deſire to puniſh; whenſoever any that is here<g ref="char:EOLhyphen"/>in countenanced by them ſhall ſee a Perſon begging, or wandring, or otherwiſe idly behaving himſelf, let him procure ſuch Perſon to be warn'd to appear before the two next Juſtices to anſwer for ſuch his looſe, idle, or diſorder<g ref="char:EOLhyphen"/>ly manner of living; and alſo in like manner procure the Church-wardens and Overſeers of the Poor of the Pa<g ref="char:EOLhyphen"/>riſh where ſuch idle Perſon dwells, to appear before the ſame Juſtices at the ſame time co anſwer for not <hi>providing Work</hi> for, and <hi>ſetting on Work</hi> ſuch poor Perſon, as the <hi>Law</hi> directs. And upon hearing the matter, if it ſhall appear that ſuch Officers have fully diſcharged their Duty, in pro<g ref="char:EOLhyphen"/>viding Work and fit Employments for ſuch poor Perſon,
+<pb n="18" facs="tcp:109375:13"/>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Perſon ſo wandring is by the poſitive words of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Law to
+<hi>be ſent to the Bridewell</hi> for his or her not duly <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>wing the ſame. But if ſuch Officers cannot prove <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> that they have provided Work, <hi>&amp;c.</hi> for ſuch poor Perſon, then they are by the ſame<note n="*" place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eliz. cap.
+<hi>2.</hi>
+               </note> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Law to pay 20 <hi>s.</hi> apiece for each Month <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have ſo neglected: And the Puniſhment of <hi>one</hi> Offi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> will make an <hi>hundred</hi> others diligent to do their Duty.</p>
+            <p>And that Informers may never be wanting, the Anci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Method of <hi>Marſhals</hi> (which yet in ſome meaſure re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s) may be renewed, their numbers increaſed, their <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not Yearly, as now, but proportioned to their <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>igence and numbers of Vagrants they Apprehend,
+<hi>&amp;c.</hi> 
+            </p>
+            <p> Having been already tedious, I ſhall only add, that <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will be ſo far from over-ſtocking the County <hi>Bride<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> that 'twill ſoon eradicate the very Roots of
+<hi>Idleneſs,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which ſo many are now brought up and prepared for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>place.</hi>
+            </p>
+            <q>
+               <l>Cum totidem quot nos habeant animaſque manuſque.</l>
+               <l>Dic Cur. vitam alio nequeant traducere pacto?</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
